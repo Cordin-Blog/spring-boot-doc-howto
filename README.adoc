@@ -1,2 +1,5 @@
 # spring-boot-doc-howto
-How to document a Spring boot project
+
+## How to document a Spring boot project
+
+The objective is to provide tools and options to document a Spring Boot project.
